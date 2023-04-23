@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">leafy</string>
+    <string name="login">Login</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="doHave" tools:ignore="StringEscaping">Don't have an account? Sign up </string>
+    <string name="enterEmail">          Enter your email</string>
+    <string name="enterPass">          Password</string>
+    <string name="welcomeBack">Welcome Back!</string>
+    <string name="getStarted">Get Started</string>
+    <string name="saveEarth">Get things done with SaveEarth</string>
+    <string name="description">put description here</string>
+    <string name="enterPassword">          Enter password </string>
+    <string name="confirmPass">          Confirm password</string>
+    <string name="enterName">          Enter your name</string>
+    <string name="register">Register</string>
+    <string name="haveAccount">Already have an account? Sign in</string>
+    <string name="welcomeOn">Welcome Onboard!</string>
+    <string name="saveEarthDescription">Simple task can make a big difference.</string>
+</resources>
